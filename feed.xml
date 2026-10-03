@@ -3,10 +3,10 @@
   <channel>
     <title>WinUI 3 Daily Digest</title>
     <link>https://github.com/botMorten/winui3-daily-digest</link>
-    <atom:link href="https://botMorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:11:39 GMT</lastBuildDate>
     <item>
       <title>WinUI 3 developer digest — October 3, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/03.md</link>
