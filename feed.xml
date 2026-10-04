@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 4, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/04.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/04.md</guid>
+      <pubDate>Sun, 04 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 4, 2026 Coverage: new activity October 3–4, ending 08:30 PDT October 4; deduplicated seven-day catch-up from 08:30 PDT September 27. Broad collection remains partial, so the prior successful-coverage timestamp is preserved. Markdown archive: Strongest takeaways The newly released MSIX build tools now have a concrete Native AOT/F5 failure report involving an older task assembly. The reporter found a cache-cleanup workaround; this is not a confirmed framework fix. Human Stack Overflow Q&amp;A supplies practical RichEditBox theming, cursor and selection-scroll suggestions. Accepted answers establish community usefulness, not independently tested correctness. Yesterday’s TransformToVisual memory-growth report received a non-reproduction and a suggested C++/WinRT comparison—not confirmation that WinUI itself leaks. Community experience New MSIX build t</description>
+    </item>
     <item>
       <title>WinUI 3 developer digest — October 3, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/03.md</link>
