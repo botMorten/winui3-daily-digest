@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 6, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/06.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/06.md</guid>
+      <pubDate>Tue, 06 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 6, 2026 Primary window: October 5, 8:30 a.m. → October 6, 8:30 a.m. PDT. Seven-day catch-up: September 29 → October 6; initial complete-coverage baseline remains open. Archive: Today’s takeaways TransformToVisual retention now has a second developer’s reproduction across SDK 2.4.0 and 2.5.1; earlier default-heap-only measurements missed most of the growth. The recent MSIX build-tools error is explained as Visual Studio retaining an old task DLL after upgrading packages. Restarting VS is suggested; cache cleanup is the reporter-tested workaround. NavigationView reports diverge by scenario: one crash still reproduces in the experimental SDK, while another is reported non-reproducible in 2.5.1. Neither establishes a blanket fix. Community experience MSIX build failure gains an explanation—and a lighter workaround to try. WindowsAppSDK issue, open</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 5, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/05.md</link>
