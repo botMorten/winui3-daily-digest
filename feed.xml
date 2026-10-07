@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 7, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/07.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/07.md</guid>
+      <pubDate>Wed, 07 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 7, 2026 Primary window: October 6, 8:30 a.m. → October 7, 8:30 a.m. PDT. Seven-day catch-up: September 30–October 7; broader coverage remains partial. Archive: Useful deployment lesson: an early WinUI 3 tray app pairs Velopack updating with a system-dismiss notification workaround that avoids reopening a quit app. Fresh diagnostics, not shipped fixes: new contributor tests sharpen the WebView2 DLL-loading regression and the distinction between hidden and minimized windows. A small, concrete compiler workaround: a Microsoft maintainer explains why putting a template&apos;s root element on its own line can unblock x:Bind compilation. Community experience OpenBackupManager: a real unpackaged WinUI 3 updater, with a notification trap. Amy Jeanes / GitHub, October 6; implementation committed at 2:04 p.m. PDT. The early-development backup project added V</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 6, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/06.md</link>
