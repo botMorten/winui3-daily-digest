@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer digest — October 8, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/08.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/08.md</guid>
+      <pubDate>Thu, 08 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer digest — October 8, 2026 Primary window: October 7, 08:30 → October 8, 08:30 PDT. Seven-day catch-up: October 1–8; collection is partial. Archive: A new native title-bar leak report includes a concrete reporter-tested cleanup sequence for repeatedly opened windows. Source/compiler progress is real, but issue closure and an open animation PR are not evidence of released SDK fixes. Catch-up adoption signal: Console Mode has shipped stable 1.6 after its previously covered WinUI migration/alpha. Community experience Custom title bars can leave native resources behind after window closure. Windows App SDK issue, October 8: . A developer reports roughly 35 additional handles and 2–3 MB of private memory per open/close cycle in an unpackaged, self-contained WinUI 3 app using WinUI 2.3.9 / InteractiveExperiences 2.1.9; their debugger traces point to native title-bar composition</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 7, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/07.md</link>
