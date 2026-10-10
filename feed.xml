@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 10, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/10.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/10.md</guid>
+      <pubDate>Sat, 10 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 10, 2026 Coverage focus: October 9, 8:30 AM PDT to Oct 10, 8:31:22 AM PDT; seven-day catch-up searched. Earlier collection remains incomplete, so no full-coverage timestamp is advanced. Archive: Strongest takeaways MSIX packaging gets a corrected preview package; the separate AOT/subfolder failure is now reproduced by an upstream contributor, not fixed yet. An accessibility-tool developer reports corrupted on-device image descriptions despite successful API status—an important output-validation warning. Community experience Self-contained MSIX subfolders: the AOT failure is now reproduced upstream. WindowsAppSDK issue #6353, opened March 27; new comments October 9 PDT. Following yesterday’s report of Debug succeeding while AOT Release produced duplicate payloads, contributor Felipe G confirmed that the supplied projects reproduce the problem a</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 9, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/09.md</link>
