@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 11, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/11.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/11.md</guid>
+      <pubDate>Sun, 11 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 11, 2026 Primary report window: October 10, 08:33:49 → October 11, 08:31:08 PDT; seven-day catch-up checked separately. General-source coverage is partial. The GitHub section uses its own exact rolling 24-hour window below. Archive: Takeaways XAML compiler performance work merged: substantial author-measured improvements on an ARM64 Gallery workload, but no verified package release yet. Restarting Visual Studio is now a confirmed workaround for one more developer hitting the MSIX UseSharedPriExpansionCache task mismatch. Treat today&apos;s “fixed” claims carefully: a RadioButtons memory-fix retest is requested, not confirmed; broader community searches were mostly blocked. Community experience MSIX build-task mismatch: restarting Visual Studio gets practical confirmation. WindowsAppSDK issue, opened October 4; new comment October 11 at 08:00 PDT. —</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 10, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/10.md</link>
