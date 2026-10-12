@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 12, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/12.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/12.md</guid>
+      <pubDate>Mon, 12 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 12, 2026 Coverage: October 11, 08:31 → October 12, 08:30 PDT, plus a seven-day catch-up search through October 12. General-source coverage is partial; previously reported items are deduplicated. Archive: A new publisher report challenges the hidden-window workaround for Store-update hangs: suspended processes cannot process shutdown messages. Fresh XAML activity includes reusable-flyout binding limitations, hide/restore title-bar glitches, and a concrete Files-app argument for richer icons. An accessibility API’s corrupted descriptions have a Microsoft-confirmed internal fix pending release; screenshot refusals are a separate unresolved issue. Community experience Store-update hangs: a hidden window does not cover suspended background processes. WindowsAppSDK issue #6797, opened September 24; new developer report October 12. A second publisher</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 11, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/11.md</link>
