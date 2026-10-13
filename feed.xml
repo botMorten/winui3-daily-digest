@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 13, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/13.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/13.md</guid>
+      <pubDate>Tue, 13 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 13, 2026 Coverage: October 12, 08:30:22 → October 13, 08:30 PDT; seven-day catch-up checked back to October 6. Broad-web coverage remains partial, so this is not a claim that every intervening item has been captured. Archive: Strongest takeaways Gallery 3.0 is out: self-contained experimental controls and practical samples bring API evaluation forward—but they are not production-stable APIs. A meaningful accessibility update: Microsoft reproduced the AI screenshot-description refusal and promises a future fix; no shipped package is confirmed. Production plumbing still matters: another developer reports weeks waiting for push-notification mapping support. Community experience AI screenshot descriptions: Microsoft reproduces the text-heavy UI refusal. WindowsAppSDK issue #6855, opened October 11, with a new October 12 response. Yesterday&apos;s repor</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 12, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/12.md</link>
