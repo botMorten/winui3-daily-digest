@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 14, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/14.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/14.md</guid>
+      <pubDate>Wed, 14 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 14, 2026 Primary window: October 13, 08:30 → October 14, 08:30 PDT. Seven-day search catch-up: October 7–14; general-source coverage is partial. Archive: Takeaways A real packaging improvement: the new MSIX BuildTools preview has a contributor-announced NativeAOT fix and a successful retest from the affected developer—not just a promised future patch. Startup and windowing deserve regression tests: new reports document an AppInstance launch deadlock and a minimize/restore exception in generated TabView apps. Neither is a confirmed shipped fix. Community experience AppInstance startup can hang after process-ID reuse. WindowsAppSDK issue, filed October 13: . A reporter diagnosed Snipping Tool on an Insider build using runtime 2.5.1, supplying wait chains, debugger stacks and a reproduction sequence in which an unrelated process inherits a stale </description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 13, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/13.md</link>
