@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 15, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/15.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/15.md</guid>
+      <pubDate>Thu, 15 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 15, 2026 Coverage: October 14, 08:30 → October 15, 08:30 PDT; seven-day catch-up through the same cutoff. General web coverage is partial. Archive: Two actionable new WinUI reports: a retained ItemContainerGenerator can reportedly reach a crash state, and compact NavigationView can lose its parent selection indicator after programmatic child selection. ContentDialog animation gets a source fix: merged into main, but no fixing NuGet release verified. Packaging progress, with a release-channel caveat: the WAP/AOT fix is promised for the next stable MSIX BuildTools release; the verified package remains preview. Community experience MSIX bundle signing: SHA384 setting apparently ignored — catch-up. WindowsAppSDK issue, opened October 13 Pacific (October 14 UTC): . A developer needing to sign an MSIX bundle with a SHA384 certificate reports that se</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 14, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/14.md</link>
