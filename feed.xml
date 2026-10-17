@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 17, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/17.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/17.md</guid>
+      <pubDate>Sat, 17 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 17, 2026 Coverage: October 16, 08:30 → October 17, 08:30 PDT; seven-day catch-up checked where accessible. Archive: Takeaways A standalone WinUI repro separates two Windows AI problems: structured responses that exceed a diagnostic wait and successful responses that never report progress. Unpackaged unit testing gets a contributor-provided working sample; NavigationView fixes are still draft source work, not shipped packages. Older OCR failures now have concrete successful retests, while image-description fixes still lack a public delivery date. Community experience Structured JSON: a silent operation is not necessarily a hung operation. WindowsAppSDK issues, October 16: and . A packaged, self-contained WinUI C# repro on 2.5.4-experimental produced valid, 424-word JSON after about 82 seconds with zero progress callbacks; ordinary text generati</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 16, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/16.md</link>
