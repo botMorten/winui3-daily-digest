@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 18, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/18.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/18.md</guid>
+      <pubDate>Sun, 18 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 18, 2026 Coverage: October 17, 08:30 → October 18, 08:30 PDT; seven-day catch-up checked where accessible. Archive: Takeaways A queued-Flyout theme-change crash now has a merged source fix and regression test—but no identified shipping SDK package. Quiet on verified app releases and independent developer reports; search gaps mean that is not a claim that the community was inactive. A useful migration-documentation catch-up spells out where experimental WinUI inking still differs from UWP: namespace changes are only the beginning. Community experience No newly verified independent app-release, migration-experience or Reddit item cleared today&apos;s recency and dedup checks. Yesterday&apos;s SDK problem reports are not repeated without new evidence. News/releases Catch-up: UWP ink migration has concrete API gaps, not just renamed namespaces. Microsoft Le</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 17, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/17.md</link>
