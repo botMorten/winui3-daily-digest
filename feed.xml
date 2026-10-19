@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 19, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/19.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/19.md</guid>
+      <pubDate>Mon, 19 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 19, 2026 Primary window: October 18, 08:30 → October 19, 08:30 PDT. Seven-day catch-up: October 12–19. Archive: Deployment gotcha: a new Windows App SDK 2.5.1 report describes Windows ML initialization failing across an unpackaged, self-contained EXE/DLL boundary; its workaround is reporter-supplied, not a confirmed SDK fix. NavigationView repairs are proposed, not shipped: new work targets stale ancestor selection and missing top-navigation chevrons. Old AI limitation, fresh clarification: a Microsoft contributor closed a WinUI-app structured-output request today, saying support already exists. That is not a new release—and the documentation checked still labels the relevant API experimental. Community experience Windows ML initialization can pick the wrong deployment path in a DLL. GitHub / WindowsAppSDK, October 19. PetrMinar reports an unp</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 18, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/18.md</link>
