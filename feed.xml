@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 20, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/20.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/20.md</guid>
+      <pubDate>Tue, 20 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 20, 2026 Daily window: October 19, 08:30 → October 20, 08:30 PDT. Seven-day catch-up: October 13–20; older discoveries are labeled below. Archive: A practical packaging warning: a new MSIX report says Advertising ID reads can remain cached after the user changes their privacy setting; no maintainer confirmation yet. Real applications, not just framework demos: catch-up discoveries include a native mail/calendar client and an open-source Run-dialog alternative, with useful distinctions between polished UI and product completeness. A new official Chart walkthrough is genuinely practical: it explains experimental resource/deployment gotchas and data-refresh behavior. It is not a new SDK release. Community experience MSIX Advertising ID may ignore subsequent privacy-setting changes. WindowsAppSDK issue, October 19 PDT. A C++/WinRT developer report</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 19, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/19.md</link>
