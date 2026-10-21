@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 21, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/21.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/21.md</guid>
+      <pubDate>Wed, 21 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 21, 2026 Daily window: October 20, 08:30 → October 21, 08:30 PDT. Seven-day catch-up: October 14–21; older discoveries are labeled. Archive: A valuable debugging reversal: a WinUI/XAML-islands crash previously blamed on runtime registration now points mainly to the app’s own reentrant layout code. Field validation is still pending. Unpackaged deployment has two concrete edge cases to investigate: stale notification branding and a reported PRI resource-path allocation bug. Neither is a confirmed, shipped SDK fix. Real-app catch-up: TrenchHQ demonstrates reusable multi-monitor overlays with a WinUI 3/.NET shell and Rust/Node helpers—not just another control demo. Community experience A customer-crash investigation changes direction. WindowsAppSDK #6724, originally August 27; substantive update October 21. The developer captured originating stowe</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 20, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/20.md</link>
