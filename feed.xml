@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 22, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/22.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/22.md</guid>
+      <pubDate>Thu, 22 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 22, 2026 Coverage: October 21, 08:30 → October 22, 08:30 PDT; seven-day catch-up checked through the same cutoff. Archive: A community WinUI 3 designer has appeared: a Visual Studio 2026 VSIX, with significant compatibility limits—not an official Microsoft designer announcement. Microsoft gives Reactor a detailed public introduction: C#-first MVU on real WinUI controls, explicitly experimental and not a replacement for XAML/MVVM. Several longstanding bugs now have merged source fixes: NavigationView clipping and embedded XAML resource lifetime. Merged is not the same as shipped. Community experience Reactor’s early feedback: less binding plumbing, but where’s the visual workflow? — Microsoft blog comments, October 21–22. Luca Spolidoro likes fewer files and avoiding bindings but says he would miss a designer; Ed Kolis welcomes compile-time che</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 21, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/21.md</link>
