@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 23, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/23.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/23.md</guid>
+      <pubDate>Fri, 23 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 23, 2026 Coverage: October 22, 08:30 → October 23, 08:30 PDT; seven-day catch-up checked where accessible. Archive: Takeaways Two long-running UI defects now have merged source fixes: NavigationView&apos;s unwanted opening and staggered entrance animations. Neither is verified in a released package. Menu interaction parity and experimental Charts styling remain active developer pain points. New proposals target Window/XAML template pitfalls and reliable app-versus-system theme detection; neither has shipped. Community experience Follow-up: two reported app problems are being routed to Windows, not the SDK. — Issues originally October 20; Microsoft responses October 22. For the WinUI 3 player&apos;s AVC/HEVC playback failure, Microsoft asks for Media Foundation traces and Feedback Hub submission; for stale Advertising ID values in an MSIX app, Microsoft </description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 22, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/22.md</link>
