@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 24, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/24.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/24.md</guid>
+      <pubDate>Sat, 24 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 24, 2026 Primary window: October 23, 08:30 → October 24, 08:30 PDT. Seven-day catch-up: October 17–24; older discoveries are labeled below. Archive: AOT troubleshooting improves: an ItemsSource diagnostic change merged, but it is not a newly shipped fix for missing collection interop. Real app adoption: two missed community posts show WinUI 3 powering a clipboard manager and a Rust-backed file manager, with concrete performance and deployment choices. Reliability still needs careful diagnosis: a new post-standby dispatcher report resembles an older hang superficially, but the scenarios and possible causes remain distinct. Community experience ModernPaste adds faster collection switching and broader localization — catch-up. Reddit r/windowsapps, posted October 22 PDT. The developer&apos;s v1.0.36 announcement adds remappable Selection AI shortcuts, </description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 23, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/23.md</link>
