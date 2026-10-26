@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 26, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/26.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/26.md</guid>
+      <pubDate>Mon, 26 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 26, 2026 Primary window: October 25, 08:30 → October 26, 08:30 PDT. Seven-day catch-up checked; older discoveries labeled below. Archive: Strongest takeaways TableView gets a practical first-party walkthrough, including self-contained deployment guidance—but it remains experimental, not a new stable control release. Real app work exposes the migration details: SCwin fixes navigation flicker and initialization ordering; TypeWhisper restores global mouse shortcuts accidentally lost when removing WPF. NavigationView clipping has a merged source fix. That is progress, not evidence that a fixing NuGet package has shipped. Community experience SoundWin becomes SCwin, with concrete native-app fixes. GitHub release, October 25; Reddit introduction also October 25. This unofficial C#/.NET 8 WinUI 3 SoundCloud client publishes installer/portable builds </description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 25, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/25.md</link>
