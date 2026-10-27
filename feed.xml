@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 27, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/27.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/27.md</guid>
+      <pubDate>Tue, 27 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 27, 2026 Coverage: October 26, 08:30–October 27, 08:30 PDT; seven-day catch-up through the same cutoff. Archive: Today’s takeaways A real shipping example: Wintor’s developer reports its native WinUI 3 torrent client has passed Store certification—and documents a surprisingly mundane keyword rejection along the way. CI trap worth checking: a new NativeAOT/MSIX repro shows that a successful publish exit code can still mean no package on the .NET 11 SDK. Framework progress, not instant upgrades: NavigationView-related repairs merged; TableView fixes are explicitly promised for a future experimental release, not available in a newly verified package today. Community experience Wintor reaches the Store, with practical distribution lessons. GitHub, October 27 UTC/early October 27 PDT. The developer’s dated commit says Wintor 0.2.0 passed certificat</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 26, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/26.md</link>
