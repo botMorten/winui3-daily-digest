@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 28, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/28.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/28.md</guid>
+      <pubDate>Wed, 28 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 28, 2026 Coverage: October 27, 08:30–October 28, 08:30 PDT; seven-day catch-up through the same cutoff. Archive: Today’s takeaways A shipped update, not just merged code: Windows App SDK 2.6.4 brings WinUI crash fixes, more useful DispatcherQueue crash dumps and a VS Code XAML IntelliSense repair. Native-app adoption keeps getting practical: TypeWhisper’s latest WinUI daily adds offline Voxtral dictation, with explicit model-download, GPU/CPU and release-channel boundaries. Accessibility before implementation: Figma’s Accessibility Assistant now has a WinUI 3 target and exportable handoff specs—a useful catch-up for teams whose focus behavior currently lives in someone’s head. Community experience TypeWhisper adds another local speech engine without pretending a daily is stable. GitHub, October 28 release; implementation merged October 27. The</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 27, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/27.md</link>
