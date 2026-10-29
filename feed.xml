@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 29, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/29.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/29.md</guid>
+      <pubDate>Thu, 29 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 29, 2026 Coverage: October 28, 08:30–October 29, 08:30 PDT, plus past-week missed coverage. Archive: Today’s takeaways Test the deployed runtime, not just your NuGet version: new reports describe Windows 10 islands rendering problems after shared-runtime servicing and an ARM64EC-specific startup blocker. Yesterday’s hybrid-GPU issue has broader corroboration: MAUI and inbox-app reports add detail, but GPU-preference workarounds depend on display topology. Native adoption has useful engineering receipts: Mole’s developer explains separate platform implementations, shared design tokens, cross-platform tests and Windows-specific shipping friction. Community experience Windows 10 islands: shared-runtime update reportedly makes GDI content transparent. WindowsAppSDK #6909, October 28. A shipping MFC app and official WinForms-islands sample reported</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 28, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/28.md</link>
