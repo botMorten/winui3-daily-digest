@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 30, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/30.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/30.md</guid>
+      <pubDate>Fri, 30 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 30, 2026 Coverage: October 29, 08:30–October 30, 08:30 PDT; seven-day catch-up checked for missed items. Archive: Rendering investigation advances: cross-adapter corruption now has a dual-NVIDIA desktop report, while Microsoft reproduces the Windows 10 top-border-color problem. Neither has a verified shipped fix. Real app adoption: RimestDB’s developer is building a commercial WinUI 3 database client; another team’s testing discussion exposes the cost of scaling interactive Windows UI tests. Tooling versus runtime matters: stale MSIX template dependencies get Microsoft tracking, and .NET 10 template eligibility changes merge—but neither establishes a newly shipped template package. Community experience RimestDB: WinUI 3 for a full database-client workflow. Reddit r/windowsapps, October 29. The developer introduces a Windows-only WinUI 3/.NET c</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 29, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/29.md</link>
