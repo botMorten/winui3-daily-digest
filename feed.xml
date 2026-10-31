@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — October 31, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/31.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/31.md</guid>
+      <pubDate>Sat, 31 Oct 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — October 31, 2026 Coverage: October 30, 08:30 → October 31, 08:30 PDT; seven-day catch-up for missed items. Archive: Today’s takeaways A new 2.6.4 report exposes a nasty CI trap: dotnet format can succeed despite duplicate generated XAML files and a broken semantic model. There is a documented opt-out to test. Cross-display glyph corruption now has reports on SDK 2.5.1 too; GPU preferences help some configurations, not all applications. DLL-search and NavigationView fixes merged into source, while ARM64EC has a next-release promise. None establishes a newly shipped package fix. Community experience A green formatting gate can hide broken WinUI analysis. WindowsAppSDK issue, October 31: . A developer reports that 2.6.4’s design-time XAML inclusion adds generated files twice to Roslyn’s MSBuildWorkspace; their roughly 40-page app produces 36,311 errors, </description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 30, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/30.md</link>
