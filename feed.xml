@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 1, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/01.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/01.md</guid>
+      <pubDate>Sun, 01 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 1, 2026 Coverage: October 31, 08:30 PDT → November 1, 08:30 PST (25 elapsed hours across the clock change), plus explicitly labeled seven-day catch-up. Archive: Strongest takeaways A new ItemsView/LinedFlowLayout report isolates a native crash when controls are repeatedly replaced and garbage-collected. StackLayout and ItemsSource replacement are useful comparison cases—not established universal fixes. Two older issues gained practical new material: a runnable WebView2 regression harness and a packaged community cursor-workaround helper. Neither proves an upstream fix has shipped. Catch-up deployment lessons: test MSIX installation on non-default drives; a traditional installer can coexist with package integration, but still owns the external payload’s lifecycle. Community experience MSIX error-reporting extension fails on an alternate instal</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — October 31, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/10/31.md</link>
