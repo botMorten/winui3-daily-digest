@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 2, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/02.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/02.md</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 2, 2026 Coverage: November 1, 08:30 → November 2, 08:30 PST, with a seven-day catch-up search. Archive: Check the runtime actually loaded before trusting a downgrade test. New multi-GPU rendering reports distinguish SDK references from the installed framework an app actually uses. Useful workarounds, not miracle cures: fresh TitleBar DPI and MenuBar wrapping examples are actionable; the reentrancy crash investigation still lacks a supported mitigation. No new SDK shipment verified. Ink telemetry is promised for a future experimental release; template and ListView corrections remain proposals. Community experience No additional independently verified, materially new blog/Reddit adoption or migration story cleared today&apos;s relevance and deduplication checks. The substantive developer reports are collected in the GitHub section below rather than </description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 1, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/01.md</link>
