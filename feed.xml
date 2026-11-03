@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 3, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/03.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/03.md</guid>
+      <pubDate>Tue, 03 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 3, 2026 Coverage: November 2, 08:30 → November 3, 08:30 PST (America/LosAngeles), plus seven-day catch-up. Archive: The useful bits Windows App SDK 2.6.5 is out: rendering, composition and installation repairs, but a system-backdrop rollback needs attention before upgrading. Early field reports suggest better window dragging and multi-GPU rendering; neither establishes that every related defect is fixed. New debugging evidence sharpens existing TitleBar and LinedFlowLayout crash reports; a TableView accessibility fix has merged, not necessarily shipped. Community experience Missing symbols reported immediately on 2.6.5. WindowsAppSDK issue, November 3: . A developer reports that the x64 Microsoft.UI.Xaml.dll 3.3.0.0 lacks its corresponding PDB on Microsoft&apos;s public symbol server. There was no maintainer confirmation or response at inspection.</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 2, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/02.md</link>
