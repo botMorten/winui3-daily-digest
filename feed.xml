@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 4, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/04.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/04.md</guid>
+      <pubDate>Wed, 04 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 4, 2026 Primary window: November 3, 08:30 → November 4, 08:30 PST (America/LosAngeles). Seven-day catch-up: October 28 onward. Archive: VS Code gets meaningful WinUI XAML tooling: WinApp v0.4 adds project-aware IntelliSense, but full support is currently C#/.NET 10 only and experimental. Fresh 2.6.5 reports warrant targeted testing: GPU-memory growth during surface redraws and cross-process UI Automation crashes have concrete repro descriptions—not confirmed framework diagnoses. Practical deployment lessons: a developer reports flags needed for on-demand language resources; another isolates missing IME candidates to unpackaged apps on one Windows build. Community experience On-demand MSIX languages: installation versus activation. WindowsAppSDK Discussion, November 3; self-answer November 4. A developer says AddResourcePackageAsync appeared t</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 3, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/03.md</link>
