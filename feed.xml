@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 5, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/05.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/05.md</guid>
+      <pubDate>Thu, 05 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 5, 2026 Primary window: November 4, 08:30 → November 5, 08:30 PST (America/LosAngeles). Seven-day catch-up: October 29 onward. Archive: Window-placement persistence reaches main, not a release: initial support is package-registered only; unpackaged storage support is still a proposal. Image-heavy apps get concrete GPU-memory investigations: four linked reports separate atlas fragmentation, retained staging allocations and hybrid-GPU behavior. No upstream fix is verified. Developer-loop improvements remain uneven: the MVVM template warning fix merged, while faster XAML compilation and input coalescing remain proposals/prototypes. Community experience AI-generated accessible descriptions reportedly contain accessibility-breaking invisible characters. WindowsAppSDK #6936, November 4. A developer testing ImageDescriptionGenerator reports a four-c</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 4, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/04.md</link>
