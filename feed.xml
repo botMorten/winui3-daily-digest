@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 6, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/06.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/06.md</guid>
+      <pubDate>Fri, 06 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 6, 2026 Primary window: November 5, 08:30–November 6, 08:30 PST; seven-day catch-up searched back to October 30. Archive: Testing and scaffolding move forward: MTP-based WinUI unit-test templates and launch-profile corrections are merged, but the updated template pack is not yet verified published. Real fixes, not release claims: TableView and an Expander-associated exception bug have source fixes; fresh NativeAOT and single-instance startup reports remain unresolved. Useful workaround: explicit image sizing addresses a reported RenderTargetBitmap shrink—but cannot recover detail lost to its bitmap-size limit. Community experience Single-instance startup failures get a fresh 2.6.5 report. WindowsAppSDK issue, originally August 7, 2025; new comment November 5, 2026. A second developer reports intermittent crashes at AppInstance.FindOrRegisterF</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 5, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/05.md</link>
