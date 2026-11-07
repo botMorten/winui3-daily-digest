@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 7, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/07.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/07.md</guid>
+      <pubDate>Sat, 07 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 7, 2026 Coverage: November 6, 08:30–November 7, 08:30 PST; seven-day catch-up searched through the same cutoff. Archive: 2.6.6-experimental is published, with hierarchical/live TableView data, Chart accessibility and additional reliability fixes. This is not a stable-channel upgrade. Useful troubleshooting today: a service-launched title-bar crash workaround, fractional-pixel ComboBox scrolling advice, and new memory-retention repros. Concrete progress on existing problems: Microsoft contributors confirm 2.6.5 fixes for hybrid-GPU rendering corruption, and missing WinUI symbols are now available. Community experience Custom title bars can crash service-launched UI tests. WindowsAppSDK issue #6955, filed November 6, describes an access violation in 2.6.5 when ExtendsContentIntoTitleBar(true) runs in a non-interactive window station: DirectComp</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 6, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/06.md</link>
