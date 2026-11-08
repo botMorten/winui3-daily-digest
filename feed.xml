@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 8, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/08.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/08.md</guid>
+      <pubDate>Sun, 08 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 8, 2026 Coverage: November 7, 08:30–November 8, 08:30 PST; seven-day catch-up searches through November 8. General-web coverage is partial; the separate GitHub activity inspection completed. Archive: Strongest takeaways A new WinUI 2.6.5 TabView report isolates a tab-close crash to focused ScrollPresenter-based content. Moving focus before removal reportedly avoids it; this is a developer workaround, not a confirmed framework fix. An independent hands-on shows Reactor’s Registry Editor sample doing real work with native WinUI controls. It is an existing experimental sample—not an announced replacement for Windows’ regedit. A metadata-generation ordering fix reached main; the other substantive GitHub conversation concerns access to Microsoft Store-style controls, not a new official control release. Community experience Registry Editor as a con</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 7, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/07.md</link>
