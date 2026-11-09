@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 9, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/09.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/09.md</guid>
+      <pubDate>Mon, 09 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 9, 2026 Coverage: Nov 8, 08:30 → Nov 9, 08:30 PST (America/LosAngeles). Seven-day catch-up: Nov 2–9; older discoveries are labeled below. Archive: Strongest signals A detailed image-cache crash report includes a shared-BitmapImage workaround—but no maintainer confirmation yet. Three TableView repairs merged into main: retention, accessibility scrolling and context-menu hit-testing. Merged is not shipped. Actual Store apps show both SDK-fix adoption and architecture-specific rollout limits; the much-discussed Registry Editor remains a developer sample. Community experience First launch after MSIX installation: seconds before managed code. WindowsAppSDK issue, Nov 9: a developer using SDK 2.1.3, .NET 8, x64 reports 3.1–4.2 seconds to show a window after install/redeployment, versus roughly 0.21–0.23 seconds on the next launch; their instrumenta</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 8, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/08.md</link>
