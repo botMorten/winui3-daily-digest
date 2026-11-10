@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 10, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/10.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/10.md</guid>
+      <pubDate>Tue, 10 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 10, 2026 Coverage: November 9, 08:30–November 10, 08:30 PST; seven-day catch-up searched through the same cutoff. Archive: The useful bits WinApp CLI’s new announcement brings experimental live WinUI DevTools and ETW profiling into focus—with important limits on what live edits and frame timings mean. PullYard’s developer shares concrete shipping trade-offs: a native WinUI shell, WebView2 for expensive content, and self-contained deployment. Navigation fixes reached WinUI’s main branch, while Microsoft clarified that the missing-item-template fix is expected through Visual Studio 18.12, not an SDK NuGet update alone. Community experience PullYard: a real WinUI 3 app, with an intentionally hybrid rendering strategy. Developer vaache’s November 10 retrospective describes maintaining separate SwiftUI, WinUI 3 and GTK 4 implementations of a pull-</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 9, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/09.md</link>
