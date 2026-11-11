@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 11, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/11.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/11.md</guid>
+      <pubDate>Wed, 11 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 11, 2026 Coverage: November 10, 08:30 → November 11, 08:30 PST; seven-day catch-up for missed items. Archive: Two actionable reliability reports: variable-size ComboBox rows can trigger a layout-cycle crash; a GPU-memory investigation now has a measured keep-attached workaround. Publishing matters more than a green build: a Windows SDK contributor identifies a released MSIX tooling package as fixing the previously reported .NET 11 NativeAOT packaging failure. Source progress is not package delivery: a Path-rendering fix merged, while a Chart clipping repair remains an attributed internal-review claim. Community experience NativeAOT/MSIX packaging: new fix-package identification. WindowsAppSDK issue, originally October 26; new contributor response November 10. The previously covered repro could fail on missing resources.pri or exit successfull</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 10, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/10.md</link>
