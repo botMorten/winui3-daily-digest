@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 12, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/12.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/12.md</guid>
+      <pubDate>Thu, 12 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 12, 2026 Coverage: November 11, 08:30–November 12, 08:30 PST; seven-day catch-up checked for missed items. Archive: Upgrade watch: new WinUI item templates reportedly emit unresolved placeholders; a separate SDK 2.6.5 report identifies a Windows 10 disposal crash. A real source fix, not a shipped fix: the ItemsView reset/scroll problem now has a merged implementation and regression test. Experimental controls still need edge-case testing: TableView custom-editor commit behavior and Chart label/RTL handling remain active issues. Community experience New WinUI item templates leave substitution tokens in generated code. WindowsAppSDK issue, November 12. After updating to Visual Studio 18.12 and the new WinUI templates, ghost1372 reports that adding a UserControl produces literal WINUIUSERCONTROL tokens in both XAML and C#; their follow-up shows </description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 11, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/11.md</link>
