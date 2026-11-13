@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 13, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/13.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/13.md</guid>
+      <pubDate>Fri, 13 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 13, 2026 Coverage: November 12, 08:30 → November 13, 08:30 PST; seven-day catch-up checked. Archive: Takeaways A new ItemsRepeater reproduction connects pinned focus, reordering and duplicate-key failures; the related Rust merge exposes errors rather than fixing WinUI. An older ListView selection crash now has a concrete public patch, still unmerged. PowerToys’ latest development preview adopts SDK 2.6.5; Windows AI accessibility concerns receive acknowledgment, not a resolution. Community experience Windows AI watermark accessibility report gets a Microsoft response. WindowsAppSDK issue, opened November 4; new replies November 12. Updating earlier coverage: a Microsoft contributor acknowledged that watermark characters can become “non-invisible” and affect applications, said mitigation options are being explored, and pointed developers to ex</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 12, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/12.md</link>
