@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 15, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/15.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/15.md</guid>
+      <pubDate>Sun, 15 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 15, 2026 Coverage: November 14, 08:30 → November 15, 08:30 PST; seven-day catch-up checked. Archive: WinUI in actual tools: a Victus hardware-control beta and an offline API designer show concrete native-desktop use cases—but neither is a generally available, production-proven release. Enterprise reality check: refreshed Microsoft guidance explicitly distinguishes production grid options from experimental TableView, and documents the column-alignment trap in homemade tables. Framework reliability: an existing ItemsView crash investigation now has four candidate native-lifetime patches; these await maintainer review and are not shipped fixes. Community experience VICTUS Control Center: hardware integration details emerge, but the “open-source” beta is private. Reddit r/HPVictus; original November 14, with substantive replies November 14–15. Th</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 14, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/14.md</link>
