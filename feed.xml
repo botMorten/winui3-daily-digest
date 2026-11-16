@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 16, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/16.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/16.md</guid>
+      <pubDate>Mon, 16 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 16, 2026 Coverage: November 15, 08:30 → November 16, 08:30 PST; seven-day catch-up searched. Archive: Useful image-locking guidance: a project contributor confirms two workarounds; the proposed framework change was rejected over memory cost. Native AOT + MSIX remains a sharp edge: new publishing, dependency-deployment and .NET 11 migration reports affect different stages of the workflow. Suggested fixes are not all confirmed. Experimental Charts are progressing: ten bugs were closed with fixes promised for an upcoming experimental SDK—not a release available today. Community experience .NET 11 migration revives a Native AOT/MSIX packaging headache. WindowsAppSDK issue, originally March 27; new reporter follow-up November 15 Pacific. After an October preview fix had worked for the reporter, switching from .NET 10 to .NET 11 with MSIX BuildTool</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 15, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/15.md</link>
