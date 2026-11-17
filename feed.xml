@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 17, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/17.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/17.md</guid>
+      <pubDate>Tue, 17 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 17, 2026 Coverage: Nov 16, 08:30 → Nov 17, 08:30 PST; seven-day catch-up checked separately. Archive: Packaging progress: two developer-confirmed routes around deployment/Store packaging blockers, but a related .NET 11/AOT case still awaits a released fix. NativeAOT and experimental TableView remain integration pressure points: fresh reports include concrete failure patterns and migration blockers. Fullscreen fix ≠ shipped fix: the one-pixel-gap patch has merged; the contributor explicitly says it is not released. Community experience Catch-up + fresh fixes — Nebula pairs WinUI chrome with a custom photo renderer. Public source project created Nov 13; fixes Nov 17. Its author demonstrates 50,000 photos using a C++ Direct3D 11 SwapChainPanel, not 50,000 XAML image controls; WinUI supplies panels/navigation and local AI supplies semantic search</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 16, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/16.md</link>
