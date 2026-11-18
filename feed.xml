@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 18, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/18.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/18.md</guid>
+      <pubDate>Wed, 18 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 18, 2026 Coverage: November 17, 08:30 → November 18, 08:30 PST; seven-day catch-up for missed items. Archive: SDK 2.7.0 shipped: real fixes for input, accessibility indicators, styling and shutdown—not just another source-branch promise. Production rough edges remain: broken VS templates, windowless-host servicing hangs and a narrowly scoped FolderPicker failure. Meanwhile, MenuBar and NavigationView fixes reached source after that release. Community experience VS 18.12 breaks the UserControl template. WindowsAppSDK #6968, opened November 12; fresh confirmation November 17 Pacific. Morten (dotMorten) reproduced the upgrade regression: generated XAML and C# retain the literal WINUIUSERCONTROL placeholder. His follow-up identifies a likely originating change and says newer template-deployment work avoids it, but those templates have not shipped</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 17, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/17.md</link>
