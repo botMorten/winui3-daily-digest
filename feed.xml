@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 19, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/19.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/19.md</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 19, 2026 Coverage: November 18, 08:30 → November 19, 08:30 PST; seven-day catch-up for missed items. Archive: Concrete shipping gains: FluentCleaner makes NativeAOT its default, reporting faster startup and a smaller download—with a useful reflection-related regression lesson. Tooling improves, but distinguish merged from shipped: the VS item-template packaging fix reached source; a separate XAML build-item problem remains open. TableView gets practical guidance—and a correction: a new official experimental tutorial arrives as yesterday’s community workaround is revised after more testing. Community experience Reactor goes cross-platform through Uno—not a portable Windows App SDK. Reddit r/csharp, November 19. Martin Zikmund’s fork recompiles Microsoft.UI.Reactor against Uno’s WinUI-compatible APIs; documentation confirms preview desktop/web/</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 18, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/18.md</link>
