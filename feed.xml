@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 20, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/20.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/20.md</guid>
+      <pubDate>Fri, 20 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 20, 2026 Coverage: November 19, 08:30 → November 20, 08:30 PST, plus a seven-day missed-item check. Archive: A packaging fix you can actually download: new MSIX BuildTools resolves one reporter’s .NET 11 NativeAOT duplicate-PDB failure; related version-mixing prevention remains a contributor claim. Real adoption, real migration friction: Wintodo launches with native/AOT integration, while developers report ProtocolForResults and notification-update parity gaps. WinUI source progresses: TableView accessibility fixes merged, but source merges and experimental APIs are not shipped stable fixes. Community experience Wintodo: a new native, local-first task manager. r/windowsapps, November 20. The author announces a WinUI 3/.NET 10 NativeAOT app for x64/ARM64 with SQLite/FTS5, CalDAV, read-only Microsoft Graph import, high-contrast support and remi</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 19, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/19.md</link>
