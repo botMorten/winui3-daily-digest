@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 21, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/21.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/21.md</guid>
+      <pubDate>Sat, 21 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 21, 2026 Coverage: November 20, 08:30 → November 21, 08:30 PST. Seven-day catch-up checked; missed items labeled below. Archive: Native adoption continues: Machitan’s public shell test and DevOpsToolsInstaller’s release show substantial WinUI apps beyond demos. ListView selection visuals gained a source fix, but no new WinUI/Windows App SDK release was published in this window. Compiler progress needs careful labeling: Native AOT work remains unmerged; new F# tooling depends on experimental APIs. Community experience Machitan puts WinUI 3 to work as an alternative desktop shell. Reddit r/coolgithubprojects, posted November 20 Pacific. The author’s early public test combines a taskbar, Start menu, live DWM previews, tray forwarding and privacy indicators using .NET 10, Windows App SDK 2.7.0 and native Win32 interop—no WebView. In visible comme</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 20, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/20.md</link>
