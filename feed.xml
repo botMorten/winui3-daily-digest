@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 22, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/22.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/22.md</guid>
+      <pubDate>Sun, 22 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 22, 2026 Coverage: November 21, 08:30 → November 22, 08:30 PST. Seven-day catch-up checked; missed items labeled below. Archive: Shipping with Native AOT has concrete architectural consequences: Wintodo’s author explains avoiding reflection-heavy persistence and reducing ListView update churn. TableView selection gets more workaround guidance and proposal detail, but editing remains a future-version trade-off—not a shipped improvement. Tooling and deployment still need defensive testing: fresh reports cover duplicate generated XAML and AI capability detection throwing. No new WinUI/Windows App SDK release was published in this window. Community experience Wintodo update: the engineering behind a native Store app—and its current limits. Reddit r/dotnet, November 21, 17:36 PST. Following the app’s November 20 coverage, this new developer-focuse</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 21, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/21.md</link>
