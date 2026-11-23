@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 23, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/23.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/23.md</guid>
+      <pubDate>Mon, 23 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 23, 2026 Coverage: Nov 22, 08:30 → Nov 23, 08:30 PST, plus a seven-day missed-item search. Archive: Strongest takeaways A detailed custom-title-bar investigation reports roughly 3.7× slower synchronous window moves—a useful diagnostic lead, not proof of worse mouse-drag FPS or an SDK-version regression. NavigationView’s collapse-space fix merged into source; new snapping and ImageBrush reports remain unresolved. No new WinUI/Windows App SDK release was found. TableView feedback is getting concrete team responses on selection and keyboard behavior, but API intentions and issue closures are not package shipment. Community experience Extended title bars add measurable work in a minimal repro — WindowsAppSDK issue, Nov 22. With SDK 2.7.0, .NET 10 and an unpackaged Release x64 app, the reporter’s synchronous cross-process SetWindowPos summary rose</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 22, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/22.md</link>
