@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 24, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/24.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/24.md</guid>
+      <pubDate>Tue, 24 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 24, 2026 Coverage: November 22, 08:30 → November 24, 08:32 PST, with a seven-day catch-up search. Previously reported November 23 items are deduplicated. Archive: Strongest takeaways Check dependencies before building unfamiliar WinUI projects: a new security investigation documents fake take-home assessments with malicious NuGet controls and build targets. Native apps are shipping: WinMac Dock reaches 1.0; Microsoft&apos;s latest .NET walkthrough uses a real WinUI 3 local-model app. Useful crash diagnoses, not shipped fixes: fresh source proposals address console-app UI Automation crashes, navigation transitions, and TreeView removal. All five highlighted WinUI fix PRs remain unmerged. Community experience WinMac Dock 1.0: native composition, with deployment and idle-work lessons. Asteski / GitHub, November 22, 07:21 PST — catch-up, not a release</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 23, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/23.md</link>
