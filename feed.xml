@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 25, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/25.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/25.md</guid>
+      <pubDate>Wed, 25 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 25, 2026 Coverage: November 22, 08:30 → November 25, 08:32 PST, with seven-day catch-up searches; previously reported items deduplicated. GitHub&apos;s separate rolling window is below. Archive: Strongest takeaways Multiwindow apps: watch native resources, not just managed memory. New reports describe retained XAML trees and custom-titlebar handles after closing windows; no upstream-confirmed fix yet. Two fixes reached source: TreeView RemoveAtEnd() and transformed ImageBrush decoding. Neither merge establishes a shipped runtime fix. Packaging and tooling: new manifest guidance explains what actually ships; fresh Ignite reporting highlights setup friction and WPF-to-WinUI API mix-ups. Community experience Setup friction and familiar-but-wrong XAML assumptions. Windows Latest, November 24, 19:25 PST (site dateline: November 25 UTC). Its Ignite repo</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 24, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/24.md</link>
