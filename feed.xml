@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 26, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/26.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/26.md</guid>
+      <pubDate>Thu, 26 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 26, 2026 Primary coverage: November 22, 08:30–November 26, 08:35 PST, with seven-day discovery/catch-up. Coverage is partial; the last fully successful marker remains November 22. Exact GitHub window below. Archive: Today’s takeaways Four previously discussed WinUI fixes advanced to source merges: display-off rendering, ContentPresenter transitions, NavigationView selection and ComboBox popup positioning. None is verified as shipped in an SDK package. A new packaged Windows App SDK 2.7.0 report says resetting the language override crashes; related fix review remains open. Debugging documentation and building WinUI from source remain practical stumbling blocks, with fresh developer evidence—not just timestamp churn. Community experience Resetting the language override reportedly crashes packaged apps. WindowsAppSDK issue, opened November 25: .</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 25, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/25.md</link>
