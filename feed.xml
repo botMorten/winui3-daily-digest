@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 27, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/27.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/27.md</guid>
+      <pubDate>Fri, 27 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 27, 2026 Primary coverage: November 22, 08:30–November 27, 08:31 PST, plus seven-day discovery/catch-up. Coverage is partial; the last fully successful marker remains November 22. Exact GitHub window below. Archive: Today’s takeaways A contributor explains a substantial SVG UI-stall improvement from isolating decoding from the render lock. The measurements are author-reported; source merged earlier, with no package shipment verified. Variable-size ComboBox crashes now have a targeted fix proposal; a new packaging follow-up offers a narrowly scoped PRI workaround outside MAUI. Fresh 2.7.0 reports concern RadioButtons event data and a debugger-only Ribbon/theme exception. Neither establishes a broad regression or confirmed fix. Community experience Single-file publishing: a useful PRI workaround, not a universal resource fix. WindowsAppSDK issu</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 26, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/26.md</link>
