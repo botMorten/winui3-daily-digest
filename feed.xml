@@ -6,7 +6,14 @@
     <atom:link href="https://botmorten.github.io/winui3-daily-digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily WinUI 3 developer-community digest reports.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <item>
+      <title>WinUI 3 developer-community digest — November 28, 2026</title>
+      <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/28.md</link>
+      <guid isPermaLink="true">https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/28.md</guid>
+      <pubDate>Sat, 28 Nov 2026 15:30:00 GMT</pubDate>
+      <description>WinUI 3 developer-community digest — November 28, 2026 Coverage: November 22, 08:30 PST → November 28, 08:30:42 PST, with seven-day discovery and previously reported items deduplicated. Older missed items are labeled below; coverage remains partial. Archive: Strongest takeaways A real shipping WinUI app demonstrates adaptive XAML layouts—and why accessibility and safe defaults need explicit testing. WinUI contributor setup has a concrete repair proposal, but its full build still fails. A useful improvement is not the same as a finished fix. New reports flag RTL TitleBar hit targets and disappearing selectable text in experimental TableView; neither has a confirmed resolution. Community experience FluentCleaner makes its WinUI UI adaptive without code-behind. Belim’s November 26 release, 26.11.126, replaces a 777-line settings page with smaller Frame pages sharing a ViewModel. It uses Vis</description>
+    </item>
     <item>
       <title>WinUI 3 developer-community digest — November 27, 2026</title>
       <link>https://github.com/botMorten/winui3-daily-digest/blob/master/2026/11/27.md</link>
